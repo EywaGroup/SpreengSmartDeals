@@ -1,1 +1,3 @@
 # SpringSmartDeals
+Rinat pidar looks for:
+src/main/webapp/frontendResourses/...
